@@ -5,5 +5,7 @@ Zo kan je aan je oma laten zien dat jouw reis alleen maar een klein (licht)rood 
 
 hobbyprojectje, verwacht niet te veel
 
-
+EDIT:
+V2 van nederland wereldwijd heeft hier een enpoint voor:
+https://opendata.nederlandwereldwijd.nl/v2/sources/nederlandwereldwijd/infotypes/traveladvice/worldmap
 
